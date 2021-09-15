@@ -239,11 +239,9 @@ NoDeleted = "Sorry there are no deleted accounts in the group"
 LenDeleted = "there {} deleted accounts in the group i will kick them"
 
 AdminO = """admins orders :
-
 ban <username | reply | id>
 mute <username | reply | id>
 bans - mutes
-
 setphoto <reply to photo>
 setlink <group link>
 setabout <about>
@@ -252,64 +250,51 @@ settings
 restrict settings"""
 
 OwnerO = """Owner orders :
-
 (set|rem) admin <username | reply | id>
 (set|rem) vip <username | reply | id>
 rem all <useranem | reply | id>
 (admins|vips)
-
 (unblock|block) <reply|words>
 (add|rem)reply <words>
 (replys|blocks)
-
 setwelcome <words>
 flood (msgs|time) <number>
 flood set
-
 setid <words>
 delid
-
 (enable|disable) <welcome | flood | replys | replysbot | kickme | id | ph id | bt id>"""
 
 CreatorO = """Creator orders :
-
 (set|rem) owner <username | reply | id>
 (enable|disable) <pin>
-
 kick <deleted|bots>
 change lang"""
 
 SudosO = """sudo orders :
-
 (add|rem) group
 (set|rem) creator <username | reply | id>
 (add|rem)replybot <words>
 replysbot"""
 
 SudoO = """BasicSudo orders :
-
 (set|rem) sudo <username | reply | id>
 (ban|unban)all <username | reply | id>
 (mute|unmute)all <username | reply | id>
 (alllist|sudos>
-
 (send|fwd) <reply>
 leave <groups id>
 (groups|groups links)
-
 setsudosorder <words>
 (enable|disable) <autoadd>
 autoadd <number>
-
 update < lang | bot >
 < rem | add > files
 files"""
 
-Showall = """Welcome to <a href=\"t.me/calmapubg\">Loma</a>
+Showall = """Welcome to <a href=\"t.me/nbbot\">NewBot</a>
 You can use the following commands 🔽"""
 
 LockO = """Lock and unlock orders:
-
 { lock|unlock }
 links | bots | video
 note | music | voice
@@ -318,7 +303,6 @@ markdown | contact | files
 sticker | fwd | username
 english | arabic | tag
 nf | edits | longtext
-
 PS : use settings its easy"""
 
 lockC = "lock's orders"
@@ -382,7 +366,7 @@ fr = "⏩"
 
 hide = "Hide"
 
-sors = "The bot [{}] from source [Loma](t.me/calmapubg)"
+sors = "The bot [{}] from source [NewBot](t.me/nbbot)"
 
 dellink = "Deactivate link for Telegram"
 
@@ -400,9 +384,9 @@ Tres = "mute"
 fset = "flood set : {}"
 Tfset = "You can change flood set to (ban |mute)"
 
-NOaddfiles = "Sorry there are no files from <a href=\"http://t.me/calmapubg\">(Loma)</a>"
+NOaddfiles = "Sorry there are no files from <a href=\"http://t.me/nbbot\">(NewBot)</a>"
 
-addFiles = """Here are the files from <a href=\"http://t.me/calmapubg\">(Loma)</a>
+addFiles = """Here are the files from <a href=\"http://t.me/nbbot\">(NewBot)</a>
 you can download file by clicking"""
 
 
@@ -481,26 +465,21 @@ Date created : {age}'''
 Rage = "Date created : {}"
 
 OwnerO = """Owner orders :-
-
 (set|rem) admin <username | reply | id>
 (set|rem) gpadmin <username | reply | id>
 (set|rem) vip <username | reply | id>
 rem all <useranem | reply | id>
 (admins|vips)
-
 (unblock|block) <reply|words>
 (add|rem)reply <words>
 (replys|blocks)
-
 setwelcome <words>
 flood (msgs|time) <number>
 flood set
 twostep set
-
 setid <words>
 clear <number>
 delid
-
 (enable|disable) <twostep | welcome | flood | replys | replysbot | kickme | id | ph id | bt id>"""
 
 prGPadmin = """Member : {} 

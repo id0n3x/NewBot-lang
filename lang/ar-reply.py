@@ -325,7 +325,7 @@ SudoOnle = "عذراً الامر للDev الاساسي"
 Chlang = "Choose the language - اختر اللغه"
 
 
-lang ={"ar":"🇮🇶 AR-Classic","en":"🇺🇸EN","arem":"🇮🇶 AR-Emoji"}
+lang ={"ar":" AR-Classic","en":"🇺🇸EN","arem":" AR-Emoji"}
 
 
 DsetIDShow = "<b>تم تغير كليشه الايدي</b>"

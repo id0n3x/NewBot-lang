@@ -305,7 +305,7 @@ update < lang | bot >
 < rem | add > files
 files"""
 
-Showall = """Welcome to <a href=\"t.me/calmaacc\">NewBot</a>
+Showall = """Welcome to <a href=\"t.me/calmaacc\">LomaV2</a>
 You can use the following commands 🔽"""
 
 LockO = """Lock and unlock orders:
@@ -341,7 +341,7 @@ SudoOnle = "Sorry it's for BasicSudo"
 Chlang = "Choose the language - اختر اللغه"
 Dulang = "Done update bor lang"
 
-lang ={"ar":"🇮🇶 AR-Classic","en":"🇺🇸EN","arem":"🇮🇶 AR-Emoji"}
+lang ={"ar":"AR-Classic","en":"🇺🇸EN","arem":"AR-Emoji"}
 
 
 
@@ -382,7 +382,7 @@ fr = "⏩"
 
 hide = "Hide"
 
-sors = "The bot [{}] from source [NewBot](t.me/calmaacc)"
+sors = "The bot [{}] from source [LomaV2](t.me/calmaacc)"
 
 dellink = "Deactivate link for Telegram"
 
@@ -400,9 +400,9 @@ Tres = "mute"
 fset = "flood set : {}"
 Tfset = "You can change flood set to (ban |mute)"
 
-NOaddfiles = "Sorry there are no files from <a href=\"http://t.me/calmaacc\">(NewBot)</a>"
+NOaddfiles = "Sorry there are no files from <a href=\"http://t.me/calmaacc\">(LomaV2)</a>"
 
-addFiles = """Here are the files from <a href=\"http://t.me/calmaacc\">(NewBot)</a>
+addFiles = """Here are the files from <a href=\"http://t.me/calmaacc\">(LomaV2)</a>
 you can download file by clicking"""
 
 
